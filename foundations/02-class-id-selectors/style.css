@@ -1,0 +1,20 @@
+.odd 
+{
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgba(255, 0, 0, 0.3);
+}
+
+#second{
+    color: rgba(0, 0, 255);
+    font-size: 36px;
+}
+
+.cool{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: rgba(0, 255, 0, 0.5);
+    font-size: 24px;
+    font-weight: bold;
+}
